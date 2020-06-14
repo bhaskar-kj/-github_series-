@@ -3,4 +3,5 @@ rainbow colour
 red 
 pink
 yellow
+violet
 green
